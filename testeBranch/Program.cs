@@ -6,7 +6,7 @@ namespace testeBranch
     {
         static void Main(string[] args)
         {
-            B1();
+            //B1();
         }
 
         static void B1()
