@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romar\\source\\repos\\testeBranch\\testeBranch\\testeBranch.csproj": {}
+    "C:\\testeBranch\\testeBranch\\testeBranch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romar\\source\\repos\\testeBranch\\testeBranch\\testeBranch.csproj": {
+    "C:\\testeBranch\\testeBranch\\testeBranch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romar\\source\\repos\\testeBranch\\testeBranch\\testeBranch.csproj",
+        "projectUniqueName": "C:\\testeBranch\\testeBranch\\testeBranch.csproj",
         "projectName": "testeBranch",
-        "projectPath": "C:\\Users\\romar\\source\\repos\\testeBranch\\testeBranch\\testeBranch.csproj",
+        "projectPath": "C:\\testeBranch\\testeBranch\\testeBranch.csproj",
         "packagesPath": "C:\\Users\\romar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romar\\source\\repos\\testeBranch\\testeBranch\\obj\\",
+        "outputPath": "C:\\testeBranch\\testeBranch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romar\\AppData\\Roaming\\NuGet\\NuGet.Config",

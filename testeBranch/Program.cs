@@ -8,5 +8,10 @@ namespace testeBranch
         {
             Console.WriteLine("Hello World!");
         }
+
+        public void teste()
+        {
+            Console.WriteLine("B1");
+        }
     }
 }
