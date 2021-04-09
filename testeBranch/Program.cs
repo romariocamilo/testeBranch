@@ -6,11 +6,7 @@ namespace testeBranch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
 
-            B1();
-            B1(11);
-            B2();
         }
 
         static void B1()
