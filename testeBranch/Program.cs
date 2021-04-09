@@ -23,5 +23,10 @@ namespace testeBranch
         {
             Console.WriteLine("B2");
         }
+
+        static void B3()
+        {
+            Console.WriteLine("B2");
+        }
     }
 }
