@@ -11,16 +11,3 @@ C:\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.csproj.CoreCompil
 C:\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.dll
 C:\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.pdb
 C:\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.genruntimeconfig.cache
-C:\teste\testeBranch\testeBranch\bin\Debug\netcoreapp3.1\testeBranch.exe
-C:\teste\testeBranch\testeBranch\bin\Debug\netcoreapp3.1\testeBranch.deps.json
-C:\teste\testeBranch\testeBranch\bin\Debug\netcoreapp3.1\testeBranch.runtimeconfig.json
-C:\teste\testeBranch\testeBranch\bin\Debug\netcoreapp3.1\testeBranch.runtimeconfig.dev.json
-C:\teste\testeBranch\testeBranch\bin\Debug\netcoreapp3.1\testeBranch.dll
-C:\teste\testeBranch\testeBranch\bin\Debug\netcoreapp3.1\testeBranch.pdb
-C:\teste\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.csprojAssemblyReference.cache
-C:\teste\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.AssemblyInfoInputs.cache
-C:\teste\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.AssemblyInfo.cs
-C:\teste\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.csproj.CoreCompileInputs.cache
-C:\teste\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.dll
-C:\teste\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.pdb
-C:\teste\testeBranch\testeBranch\obj\Debug\netcoreapp3.1\testeBranch.genruntimeconfig.cache
