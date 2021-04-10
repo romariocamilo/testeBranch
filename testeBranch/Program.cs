@@ -24,9 +24,14 @@ namespace testeBranch
             Console.WriteLine("B2");
         }
 
+        static void B3()
+        {
+            Console.WriteLine("B3");
+        }
+
         static void B4()
         {
-            Console.WriteLine("B2");
+            Console.WriteLine("B4");
         }
 
         static void B5()
