@@ -14,11 +14,6 @@ namespace testeBranch
             Console.WriteLine("B1");
         }
 
-        static void B1(int variavel)
-        {
-            Console.WriteLine(variavel);
-        }
-
         static void B2()
         {
             Console.WriteLine("B2");
@@ -36,12 +31,12 @@ namespace testeBranch
 
         static void B5()
         {
-            Console.WriteLine("B2");
+            Console.WriteLine("B5");
         }
 
         static void B6()
         {
-            Console.WriteLine("B2");
+            Console.WriteLine("B6");
         }
     }
 }
